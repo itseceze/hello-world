@@ -3,4 +3,4 @@ just another repository
 
 Hey Eveveryone
 
-This is smy Introduction to github, I'm ready to do the most.
+This is my Introduction to github, I'm ready to do the most.
